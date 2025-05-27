@@ -16,7 +16,7 @@ I'm a passionate **Full Stack Web Developer** who also loves building immersive 
 
 ## 📫 Connect With Me
 - Email: [pawarkedar92@gmail.com](mailto:pawarkedar92@gmail.com)
-- LinkedIn: *Coming soon 😉*
+- LinkedIn: https://www.linkedin.com/in/kedar-pawar-b10041215/
 - Portfolio: *In the forge... stay tuned!*
 
 ## ⚡ Fun Fact

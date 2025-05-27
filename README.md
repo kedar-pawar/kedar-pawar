@@ -11,7 +11,7 @@ I'm a passionate **Full Stack Web Developer** who also loves building immersive 
 
 ## 🌱 Currently Learning
 - React Advanced Concepts (Hooks, Context API)
-- RESTful APIs with Node.js & Express
+- Node.js & Express
 - Database design and optimization using SQL Server
 
 ## 📫 Connect With Me
